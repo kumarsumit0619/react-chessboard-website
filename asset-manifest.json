@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-chessboard-website/static/css/main.4f2d87ef.chunk.css",
+    "main.js": "/react-chessboard-website/static/js/main.fb9bc066.chunk.js",
+    "main.js.map": "/react-chessboard-website/static/js/main.fb9bc066.chunk.js.map",
+    "runtime-main.js": "/react-chessboard-website/static/js/runtime-main.4e19af18.js",
+    "runtime-main.js.map": "/react-chessboard-website/static/js/runtime-main.4e19af18.js.map",
+    "static/js/2.d80833c4.chunk.js": "/react-chessboard-website/static/js/2.d80833c4.chunk.js",
+    "static/js/2.d80833c4.chunk.js.map": "/react-chessboard-website/static/js/2.d80833c4.chunk.js.map",
+    "index.html": "/react-chessboard-website/index.html",
+    "static/css/main.4f2d87ef.chunk.css.map": "/react-chessboard-website/static/css/main.4f2d87ef.chunk.css.map",
+    "static/js/2.d80833c4.chunk.js.LICENSE.txt": "/react-chessboard-website/static/js/2.d80833c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e19af18.js",
+    "static/js/2.d80833c4.chunk.js",
+    "static/css/main.4f2d87ef.chunk.css",
+    "static/js/main.fb9bc066.chunk.js"
+  ]
+}
